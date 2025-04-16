@@ -23,7 +23,7 @@ const EqualServices = () => {
                     {/* Image */}
                     <div className="md:w-1/2 w-full flex justify-center">
                         <img
-                            src="/src/assets/Images/Mask Group 28256.png"
+                            src="/Mask Group 28256.png"
                             alt="Equal Service"
                             className="w-full max-w-md h-auto object-contain"
                         />

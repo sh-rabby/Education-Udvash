@@ -7,11 +7,11 @@ import 'swiper/css/pagination';
 
 const Hero = () => {
     const images = [
-        "/src/assets/Images/1.png",
-        "/src/assets/Images/DU2024Top3Web1.png",
-        "/src/assets/Images/EAP24Top3web2.png",
-        "/src/assets/Images/Kha01.png",
-        "/src/assets/Images/Kha03.png"
+        "/1.png",
+        "/DU2024Top3Web1.png",
+        "/EAP24Top3web2.png",
+        "/Kha01.png",
+        "/Kha03.png"
     ];
     return (
         <div className='bg-gradient-to-r from-[#0f172a] to-[#334155]   lg:h-screen' >

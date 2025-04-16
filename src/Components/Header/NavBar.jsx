@@ -56,7 +56,7 @@ const NavBar = () => {
                             </ul>
                         </div>
                         <div className='flex justify-center items-center gap-8'>
-                            <img className='w-32' src="/public/Udvash-Logo.webp" alt="" />
+                            <img className='w-32' src="/Udvash-Logo.webp" alt="" />
 
                         </div>
                     </div>

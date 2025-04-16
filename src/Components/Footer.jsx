@@ -10,7 +10,7 @@ const Footer = () => {
         <div className='bg-red-500'>
             <div className='w-11/12 md:w-10/12 lg:9/12 mx-auto  py-10'>
                 <footer className="footer sm:footer-horizontal text-white pb-5">
-                    <img src="/public/footer-logo.webp" alt="" />
+                    <img src="/footer-logo.webp" alt="" />
                     <div>
                         <h6 className="font-bold text-2xl">Help</h6>
                         <Link to="/about">About</Link>

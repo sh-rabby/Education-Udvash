@@ -8,35 +8,35 @@ const Services = () => {
 
                 <div className='grid grid-cols-2 md:grid-cols-4 sm:grid-cols-2 gap-20 text-gray-600 font-bold'>
                     <div className="flex flex-col items-center text-center">
-                        <img src="/src/assets/Images/onlineofline.png" alt="" />
+                        <img src="/onlineofline.png" alt="" />
                         <h1 className="mt-2">Offline/Online Programs</h1>
                     </div>
                     <div className="flex flex-col items-center text-center">
-                        <img src="/src/assets/Images/teacher.png" alt="" />
+                        <img src="/teacher.png" alt="" />
                         <h1 className="mt-2">Talented and Experienced Teachers</h1>
                     </div>
                     <div className="flex flex-col items-center text-center">
-                        <img src="/src/assets/Images/materials.png" alt="" />
+                        <img src="/materials.png" alt="" />
                         <h1 className="mt-2">High-Quality Study Materials</h1>
                     </div>
                     <div className="flex flex-col items-center text-center">
-                        <img src="/src/assets/Images/concept.png" alt="" />
+                        <img src="/concept.png" alt="" />
                         <h1 className="mt-2">Concept-Based Classes</h1>
                     </div>
                     <div className="flex flex-col items-center text-center">
-                        <img src="/src/assets/Images/unique.png" alt="" />
+                        <img src="/unique.png" alt="" />
                         <h1 className="mt-2">Unique Exam System</h1>
                     </div>
                     <div className="flex flex-col items-center text-center">
-                        <img src="/src/assets/Images/Q & A.png" alt="" />
+                        <img src="/Q & A.png" alt="" />
                         <h1 className="mt-2">24/7 Q&A Service</h1>
                     </div>
                     <div className="flex flex-col items-center text-center">
-                        <img src="/src/assets/Images/sms.png" alt="" />
+                        <img src="/sms.png" alt="" />
                         <h1 className="mt-2">Auto SMS Result</h1>
                     </div>
                     <div className="flex flex-col items-center text-center">
-                        <img src="/src/assets/Images/analysis.png" alt="" />
+                        <img src="/analysis.png" alt="" />
                         <h1 className="mt-2">Exam Analysis Report</h1>
                     </div>
                 </div>

@@ -28,7 +28,7 @@ const RelentlessJourney = () => {
 
                     <div className="md:w-1/2 w-full flex justify-center">
                         <img
-                            src="/src/assets/Images/Relentless.png"
+                            src="/Relentless.png"
                             alt="Equal Service"
                             className="w-fit max-w-md h-auto object-contain"
                         />

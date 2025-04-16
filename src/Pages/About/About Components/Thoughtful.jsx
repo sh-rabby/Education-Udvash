@@ -10,7 +10,7 @@ const Thoughtful = () => {
                  
                         <div className="md:w-1/2 w-full flex justify-center">
                             <img
-                                src="/src/assets/Images/thoughtful.png"
+                                src="/thoughtful.png"
                                 alt="Preparation"
                                 className="w-full max-w-md h-auto object-contain"
                             />

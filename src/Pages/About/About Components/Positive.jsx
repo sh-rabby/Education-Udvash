@@ -23,7 +23,7 @@ const Positive = () => {
                     {/* Image */}
                     <div className="md:w-1/2 w-full flex justify-center">
                         <img
-                            src="/src/assets/Images/Positive.png"
+                            src="/Positive.png"
                             alt="Equal Service"
                             className="w-full max-w-md h-auto object-contain"
                         />
