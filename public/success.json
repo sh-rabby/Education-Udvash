@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "img": "1EAPTestimonial24.png",
+        "name": "Tofail Ahmed",
+        "admission": "Admission Test: 2024-25",
+        "rank": "BUET Rank: 1st",
+        "discription": "I had already covered a significant portion of the syllabus with the Udvash Admission 23 batch. Later, I stayed with Udvash Admission 24 from the beginning. Step by step, I completed all the study materials provided by Udvash. I attended every class regularly and never missed a single class or exam. I also took Udvash’s online and practice exams. Additionally, the marathon classes turned out to be even more effective than I expected.My advice to juniors: Attend classes and exams regularly, complete daily lessons on time, and have confidence in yourself—because that’s what will take you forward."
+    },
+    {
+        "id": 2,
+        "img": "2EAPTestimonial24.png",
+        "name": "Sajib Ahmed Ruhit",
+        "admission": "Admission Test: 2024-25",
+        "rank": "BUET Rank: 2nd",
+        "discription": "I have been with Udvash since the beginning of my admission journey. At that time, I took Udvash’s marathon classes online and frequently participated in offline exams. I also watched Udvash’s recorded classes. In terms of quality, Udvash’s classes were excellent. I was able to cover my weak areas through these classes. Moreover, I found Udvash’s exam system to be extremely effective, which helped me immensely in my preparation. Advice for juniors: Start by mastering the core textbooks and practice as much as possible."
+    },
+    {
+        "id": 3,
+        "img": "3EAPTestimonial24.png",
+        "name": "S.A.M. Tamim",
+        "admission": "Admission Test: 2024-25",
+        "rank": "BUET Rank: 2nd",
+        "discription": "From the very beginning of my admission preparation, I was enrolled in Udvash’s full course. I attended every class and exam without fail. Any gaps in my preparation were improved through frequent exams at Udvash. In particular, Udvash’s marathon classes and master question bank were crucial to my success. Advice for juniors: To do well in the admission test, maintain consistency in your studies and complete your daily lessons on time. I also believe that regularly studying core textbooks and question banks will significantly increase your chances of success."
+    }
+]
